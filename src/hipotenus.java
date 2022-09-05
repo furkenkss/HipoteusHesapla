@@ -13,6 +13,7 @@ import java.util.Scanner;
 //      Alan * Alan = 𝑢 * (𝑢 − 𝑎)* (𝑢 − 𝑏) * (𝑢 − 𝑐)
 public class hipotenus {
     public static void main(String[] args) {
+        
         Scanner inp = new Scanner(System.in);
         int birinciDikKenar, ikinciDikKenar;
         System.out.println("Birinci dik kenarı giriniz.");
